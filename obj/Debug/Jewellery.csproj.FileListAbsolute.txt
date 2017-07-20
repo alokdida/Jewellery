@@ -1,0 +1,65 @@
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\ApplicationInsights.config
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\csc.exe
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\vbc.exe
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\VBCSCompiler.exe
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Jewellery.dll.config
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Jewellery.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Jewellery.pdb
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.Web.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.ApplicationInsights.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.Web.xml
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.ApplicationInsights.xml
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\obj\Debug\Jewellery.dll
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\obj\Debug\Jewellery.pdb
+C:\Users\v-alshah\documents\visual studio 2015\Projects\Jewellery\Jewellery\obj\Debug\Jewellery.csprojResolveAssemblyReference.cache
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\csc.exe
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\System.Collections.Immutable.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\System.Reflection.Metadata.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\vbc.exe
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\VBCSCompiler.exe
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\roslyn\VBCSCompiler.exe.config
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Jewellery.dll.config
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Jewellery.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Jewellery.pdb
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.Agent.Intercept.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.DependencyCollector.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.Web.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.WindowsServer.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.ApplicationInsights.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.DependencyCollector.xml
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.Web.xml
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.AI.WindowsServer.xml
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.ApplicationInsights.xml
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\obj\Debug\Jewellery.csprojResolveAssemblyReference.cache
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\obj\Debug\Jewellery.dll
+F:\sTuDy\fReeLanCer\Apptus\Jewellery\Jewellery\Jewellery\obj\Debug\Jewellery.pdb
